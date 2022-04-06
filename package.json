@@ -1,0 +1,16 @@
+{
+  "name": "@samda/tailwind-ui",
+  "version": "1.0.0",
+  "description": "css framework made of tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwindcss",
+    "ui",
+    "tailwindui"
+  ],
+  "author": "sunil panwar",
+  "license": "ISC"
+}
