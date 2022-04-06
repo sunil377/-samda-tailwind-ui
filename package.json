@@ -1,16 +1,24 @@
 {
   "name": "@samda/tailwind-ui",
   "version": "1.0.0",
-  "description": "css framework made of tailwindcss",
+  "description": "css framework with tailwindcss",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunil377/-samda-tailwind-ui.git"
+  },
   "keywords": [
     "tailwindcss",
-    "ui",
-    "tailwindui"
+    "tailwindui",
+    "ui"
   ],
   "author": "sunil panwar",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunil377/-samda-tailwind-ui/issues"
+  },
+  "homepage": "https://github.com/sunil377/-samda-tailwind-ui#readme"
 }
